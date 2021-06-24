@@ -18,7 +18,6 @@ _This project is a part of Egnite guided project_
 
 ---
 ## Contributors
-- [Hrishikesh Singh](https://github.com/Hrishikesh-Singh2000)
 - [Venkat Alapati](https://github.com/venkatAlapati123)
 - [Ritika Subudhi](https://github.com/Ritika-Subudhi)
 
